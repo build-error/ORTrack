@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# machine-specific paths
+lib/test/evaluation/local.py
+lib/train/admin/local.py
+
+# checkpoints and outputs
+output/
+*.pth
+*.pth.tar
+tensorboard/

@@ -4,7 +4,7 @@ jpeg4py==0.1.4
 lmdb==1.4.0
 matplotlib==3.7.5
 numpy==1.24.4
-opencv_python==4.7.0.68
+opencv_python==4.7.0.68 
 pandas==1.5.2
 Pillow==9.4.0
 pycocotools==2.0.6
